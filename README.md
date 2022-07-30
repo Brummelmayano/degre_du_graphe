@@ -26,4 +26,4 @@ demi-degré extérieur et intérieur noté dG (x) = d+G(x) + d-G (x).
 de convertir le tuple ( graphe) de la librairie collection.namedtuple en
 graphe de la librairie networkx.
 
-environement: jupyter notebook
+environement: Anaconda/jupyter notebook
