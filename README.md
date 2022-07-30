@@ -24,4 +24,4 @@ demi-degré extérieur et intérieur noté dG (x) = d+G(x) + d-G (x).
 
 6. Fonction pour la conversion ( nommé convert()): cette fonction a pour rôle
 de convertir le tuple ( graphe) de la librairie collection.namedtuple en
-graphe de la librairie networkx
+graphe de la librairie networkx.
